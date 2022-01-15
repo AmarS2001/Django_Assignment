@@ -6,5 +6,7 @@ Django Web_Application
 4) The sample output screenshot is also been attached for your reference.
 
 5)To run :
+
 6)go into the assign folder using      "cd <relative_path>/assign"
+
 7)Run using this command               " python manage.py runserver "
